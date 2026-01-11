@@ -22,4 +22,4 @@ $(call inherit-product, device/xiaomi/santoni/full_santoni.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := omni_santoni
+PRODUCT_NAME := twrp_santoni
